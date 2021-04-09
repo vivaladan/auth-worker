@@ -1,0 +1,8 @@
+name = "auth-worker"
+type = "webpack"
+account_id = ""
+zone_id = ""
+workers_dev = true
+route = ""
+webpack_config = "webpack.config.js"
+vars = { AUTH_DOMAIN = "", AUTH_CALLBACK = "", AUTH_CLIENT_ID = "", AUTH_CLIENT_SECRET = "" }
